@@ -1,0 +1,12 @@
+.notification {
+  margin-top: 100px;
+}
+
+.notification:before {
+  background-image: url('/notification.svg');
+  content: '';
+  position: absolute;
+  margin-top: -40px;
+  width: 32px;
+  height: 32px;
+}
