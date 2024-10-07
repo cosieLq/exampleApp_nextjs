@@ -2,9 +2,9 @@
 export default function Home() {
   return (
     <div className="notification">
+      <p>Home page</p>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       </p>
     </div>
   );
