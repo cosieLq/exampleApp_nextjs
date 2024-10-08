@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "http-proxy-middleware": "^3.0.3",
     "next": "canary",
     "react": "19.0.0-beta-04b058868c-20240508",
     "react-dom": "19.0.0-beta-04b058868c-20240508"
